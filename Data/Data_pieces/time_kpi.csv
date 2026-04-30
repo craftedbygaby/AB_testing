@@ -1,0 +1,11 @@
+group,process_step,avg_time_seconds,avg_time_minutes,step_num
+control,start,60.91,1.02,0
+test,start,56.24,0.94,0
+control,step_1,47.46,0.79,1
+test,step_1,58.48,0.97,1
+control,step_2,90.21,1.5,2
+test,step_2,88.13,1.47,2
+control,step_3,133.3,2.22,3
+test,step_3,124.83,2.08,3
+control,confirm,156.16,2.6,4
+test,confirm,221.59,3.69,4
