@@ -1,0 +1,11 @@
+group_test,process_step,total_visits,errors,error_rate,step_num
+control,start,45380,4932,10.87,0
+test,start,55773,10621,19.04,0
+control,step_1,29544,2303,7.8,1
+test,step_1,38666,3414,8.83,1
+control,step_2,25773,2364,9.17,2
+test,step_2,30899,2283,7.39,2
+control,step_3,22503,101,0.45,3
+test,step_3,25761,22,0.09,3
+control,confirm,17336,0,0.0,4
+test,confirm,25600,0,0.0,4
