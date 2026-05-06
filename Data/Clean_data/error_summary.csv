@@ -1,0 +1,3 @@
+,group_test,total_clients,error_count,no_error_count,error_rate,error_rate_pct
+0,control,140536,59547,80989,0.4237134968975921,42.37
+1,test,176699,87664,89035,0.49612052133854745,49.61
