@@ -99,7 +99,7 @@ The cleaned experiment dataset used for KPI analysis and hypothesis testing cont
 
 - **Null Hypothesis (H0):** The error rate of the Test group is greater than or equal to the error rate of the Control group. 
 - **Alternative Hypothesis (H1):** The error rate of the Test group is lower than the error rate of the Control group. 
-- **Test Used:** One-sided two-proportion z-test
+- **Test Used:** One-sided two-proportion z-test.
 - **Conclusion:** The null hypothesis could not be rejected because the Test group showed a higher error rate than the Control group. 
 
 ---
@@ -157,9 +157,9 @@ The project also included a behavioural analysis to better understand how users 
 
 ## Links
 
-- GitHub repository: https://github.com/Hina-Haq/AB_testing
-- Slides: Add your final online slide link here(revise)
-- Trello / Kanban board: https://trello.com/invite/b/69ef923173719181b9143496/ATTI3b9cd3871ebfec777a2d1cf64cf0bd974EBB3361/vanguard-a-b-test-analysis-slytherin
+- GitHub repository: https://github.com/Hina-Haq/AB_testing.
+- Slides: Add your final online slide link here(revise).
+- Trello / Kanban board: https://trello.com/invite/b/69ef923173719181b9143496/ATTI3b9cd3871ebfec777a2d1cf64cf0bd974EBB3361/vanguard-a-b-test-analysis-slytherin.
 -
 
 ---
