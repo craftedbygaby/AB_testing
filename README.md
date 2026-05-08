@@ -1,4 +1,4 @@
-![Logo](logo/logo.png)
+![Logo](logo_complete.png)
 # Vanguard Project 
 
 
