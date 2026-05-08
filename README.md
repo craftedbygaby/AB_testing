@@ -7,9 +7,8 @@
 ---
 
 ## Team
-
-- Hina Haq
 - Gabriela Cascioness
+- Hina Haq
 - Jorge Barrios Hurtado
 
 
@@ -160,7 +159,7 @@ The project also included a behavioural analysis to better understand how users 
 - GitHub repository: https://github.com/Hina-Haq/AB_testing.
 - Slides: Add your final online slide link here(revise).
 - Trello / Kanban board: https://trello.com/invite/b/69ef923173719181b9143496/ATTI3b9cd3871ebfec777a2d1cf64cf0bd974EBB3361/vanguard-a-b-test-analysis-slytherin.
--
+-Tableau dashboard link: https://public.tableau.com/app/profile/jorge.barrios.hurtado/viz/Vanguard_ABTest_Dashboard/Dashboard1?publish=yes
 
 ---
 **For a more detailed discussion of the project’s strengths, limitations, recommendations, and next steps, please refer to the presentation file.** 
